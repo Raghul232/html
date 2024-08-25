@@ -1,0 +1,36 @@
+.calculator{
+    width: 350px;
+    padding: 10px;
+    border: 2px solid orange;
+    background-color: black;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column  ;
+    margin: 5px;
+    
+}
+h1{
+    color: white;
+}
+input{
+    padding: 2px;
+    margin-bottom: 20px;
+    width: 340px;
+    height: 30px;
+    
+}
+.display{
+    width: 100%;
+    
+}
+.btn{
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+    border-color: white;
+    margin-left: 5px;
+    border: 0;
+    font-size: 25px;
+    background-color: orange;
+}
